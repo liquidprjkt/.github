@@ -1,4 +1,4 @@
-![liquid]
+![liquid](https://github.com/liquidprjkt/.github/blob/main/banner/banner.jpeg)
 ## liquid° project
 Yet another Kernel organization which aims to provide Kernel having best stability, performance, with latest CAF merges.
 
