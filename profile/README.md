@@ -8,6 +8,7 @@
 ------------------------------------
 
 * [UsiF](https://github.com/UsiFX)    - Founder - Designer - Redmi Note 7 & 7S
+* [Aaradhay](https://github.com/Inferno964)    - Dev - Co-Maintainer - Redmi Note 7 & 7S
 * [Vesh](https://github.com/veshrao)  - Dev - Redmi 4a & 5a
 * [rk134](https://github.com/rk134)   - Dev - Redmi 5 Plus/Redmi Note 5
 * [Qirkl](https://github.com/qirkl)   - Co-Designer
