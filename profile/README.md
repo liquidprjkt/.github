@@ -15,3 +15,4 @@
 * [P4042](https://github.com/adrian-8901) - Co-Founder - Xiaomi Mi 10
 * [Me0w3rs](https://github.com/eun0115) - Dev - Realme C25 Series 
 * [Beru Hinode](https://github.com/windowz414) - Dev - Vestel Venus V5/Türk Telekom Venus V5
+* [IceBreaker2451](https://github.com/IceBreaker2451) - Dev - Redmi Note 6 Pro
