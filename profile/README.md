@@ -8,7 +8,7 @@
 ------------------------------------
 
 * [UsiF](https://github.com/UsiFX)    - Founder - Designer - Redmi Note 7 & 7S
-* [NotThatBlueX](https://github.com/NotThatBlueX)   - Dev - Xiaomi Mi 10T Lite / Xiaomi Mi 10i
+* [NotThatBlueX](https://github.com/NotThatBlueX)   - Team - Core
 * [rk134](https://github.com/rk134)   - Team - Core
 * [Qirkl](https://github.com/qirkl)   - Co-Designer
 * [XelXen](https://github.com/XelXen) - Co-Designer
