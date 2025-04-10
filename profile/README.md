@@ -1,4 +1,6 @@
-![liquid](https://raw.githubusercontent.com/liquidprjkt/.github/refs/heads/main/banner/liquid_banner_main_rebrand_overlap.png)
+<p align="center">
+  <img width="100%" src="https://github.com/liquidprjkt/.github/blob/main/banner/liquid_banner_main_rebrand_overlap.png"/>
+</p>
 
 Liquid Project is custom firmware, passionately crafted by developers dedicated to unlocking your device's full potential. Tailored for maximum performance, stability, and speed, it offers a seamless, personalized experience and redefines what's possible with customization.
 
