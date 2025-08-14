@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://github.com/liquidprjkt/.github/blob/main/banner/liquid_banner_main_rebrand_overlap.png"/>
+  <img width="100%" src="https://github.com/liquidprjkt/.github/blob/main/banner/liquid_banner_blue_fill_rounded.png"/>
 </p>
 
 Liquid Project is custom firmware, passionately crafted by developers dedicated to unlocking your device's full potential. Tailored for maximum performance, stability, and speed, it offers a seamless, personalized experience and redefines what's possible with customization.
@@ -9,5 +9,5 @@ Liquid Project is custom firmware, passionately crafted by developers dedicated 
 
 Credits
 -
-Thanks to the whole custom ROM Community.
+Thanks to the whole custom ROM Community. \
 Thanks to Linus Torvalds and The linux foundation.
